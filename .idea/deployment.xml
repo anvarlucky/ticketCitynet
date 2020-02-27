@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="s2.citynet.uz">
+    <serverData>
+      <paths name="feruza">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="s2.citynet.uz">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/s2.citynet.uz/Crud" local="$PROJECT_DIR$" web="s2.citynet.uz/Crud" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
