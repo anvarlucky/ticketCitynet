@@ -9,10 +9,10 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="s2.citynet.uz">
+      <paths name="s6.mc.uz">
         <serverdata>
           <mappings>
-            <mapping deploy="/var/www/s2.citynet.uz/Crud" local="$PROJECT_DIR$" web="s2.citynet.uz/Crud" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
